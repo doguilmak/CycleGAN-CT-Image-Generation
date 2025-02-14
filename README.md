@@ -22,6 +22,8 @@ This repository implements **CycleGAN** for generating CT images from intact ima
 -   Medical Imaging
 -   Generative Adversarial Networks
 
+<br>
+
 ## **Motivation**
 
 The primary motivation behind CycleGAN is to address challenges related to unpaired data. In medical applications like CT imaging, finding paired datasets that correlate specific features between the source and target images (like an intact image and its corresponding CT scan) can be time-consuming, expensive, and sometimes unfeasible. CycleGAN allows for flexible image transformation even in the absence of such paired datasets, thus enabling a wide range of applications across different domains.
