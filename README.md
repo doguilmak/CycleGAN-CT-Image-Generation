@@ -79,7 +79,7 @@ The **CycleGAN model** for generating CT images can be found in the [CycleGAN_CT
    git clone https://github.com/doguilmak/CycleGAN-CT-Image-Generation.git
    ```
 
-
+<br>
 
 ## **Reference**
 
