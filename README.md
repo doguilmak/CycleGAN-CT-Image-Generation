@@ -66,7 +66,7 @@ CycleGAN has been successfully applied to numerous tasks. For example, in **styl
 
 ## **Usage**
 
-To use CycleGAN for generating CT images, please download IPython Notebook to your device:
+The **CycleGAN model** for generating CT images can be found in the [CycleGAN_CT_Images.ipynb](https://github.com/doguilmak/CycleGAN-CT-Image-Generation/blob/main/CycleGAN_CT_Images.ipynb) notebook. To use CycleGAN for generating CT images, please download IPython Notebook to your device:
 
 1. Clone this repository:
    ```bash
