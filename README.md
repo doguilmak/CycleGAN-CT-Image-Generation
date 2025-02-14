@@ -7,6 +7,8 @@
 
 <small>Picture Source: <a href="https://static.vecteezy.com/">vecteezy</a></small>
 
+<br>
+
 ## **Introduction**
 
 CycleGAN, or Cycle-Consistent Generative Adversarial Network, is a sophisticated generative model specifically designed for unpaired image-to-image translation tasks. Unlike traditional approaches that require matched image pairs from two different domains—such as images of CT scans—CycleGAN is capable of generating high-quality images even when paired data is not available. This feature is especially useful in fields such as medical imaging, where obtaining paired data (e.g., intact images and their corresponding CT scans) is often difficult or impractical.
