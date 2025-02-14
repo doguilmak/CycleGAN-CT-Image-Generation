@@ -81,7 +81,7 @@ The **CycleGAN model** for generating CT images can be found in the [CycleGAN_CT
 
 ## **Reference**
 
-CycleGAN was introduced by **[Sharon Zhou](https://scholar.google.co.uk/citations?user=Kn35TAQAAAAJ&hl=en)**. You can find the original research paper and more details in her Google Scholar page.
+This work is inspired by **[Sharon Zhou](https://scholar.google.co.uk/citations?user=Kn35TAQAAAAJ&hl=en)** course. You can find the original research paper and more details in her Google Scholar page.
 
 - Zhu, J.-Y., Park, T., Isola, P., & Efros, A. A. (2017). "Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks". *IEEE International Conference on Computer Vision (ICCV)*.
 
