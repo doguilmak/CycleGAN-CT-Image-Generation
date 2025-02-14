@@ -13,7 +13,7 @@
 
 CycleGAN, or Cycle-Consistent Generative Adversarial Network, is a sophisticated generative model specifically designed for unpaired image-to-image translation tasks. Unlike traditional approaches that require matched image pairs from two different domains—such as images of CT scans—CycleGAN is capable of generating high-quality images even when paired data is not available. This feature is especially useful in fields such as medical imaging, where obtaining paired data (e.g., intact images and their corresponding CT scans) is often difficult or impractical.
 
-This repository implements **CycleGAN** for generating CT images from intact images, enabling unpaired image translation in domains like medical imaging where paired data is scarce. The model uses dual generators and discriminators to perform image transformations while preserving content and style integrity.
+This project uses the [CT to MRI CGAN Dataset](https://www.kaggle.com/datasets/darren2020/ct-to-mri-cgan) from Kaggle. The dataset contains pairs of CT and MRI images for training and testing the Conditional Generative Adversarial Networks (CGANs) for medical image translation tasks. Our repository implements **CycleGAN** for generating CT images from intact images, enabling unpaired image translation in domains like medical imaging where paired data is scarce. The model uses dual generators and discriminators to perform image transformations while preserving content and style integrity.
 
 ### **Keywords**:
 
