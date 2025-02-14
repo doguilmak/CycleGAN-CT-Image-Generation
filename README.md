@@ -70,11 +70,11 @@ To use CycleGAN for generating CT images, please download IPython Notebook to yo
 
 1. Clone this repository:
    ```bash
-   !git clone https://github.com/x
+   !git clone https://github.com/doguilmak/CycleGAN-CT-Image-Generation.git
    ```
    or
       ```bash
-   git clone https://github.com/x
+   git clone https://github.com/doguilmak/CycleGAN-CT-Image-Generation.git
    ```
 
 
